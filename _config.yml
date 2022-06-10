@@ -34,7 +34,7 @@ author:
 url: "https://willricketts.com" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: UA-151416404-1
 fb_appid:
 
 # Collection setting
