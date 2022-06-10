@@ -8,7 +8,7 @@ comments: false
 
 ### Payments
 - Bitcoin: `bc1qzhzlfq2hxesg5734uwfue2er2z4amskwdjz6nk`
-- Paypal: https://www.paypal.com/paypalme/willricketts)
+- Paypal: https://www.paypal.com/paypalme/willricketts
 
 ### Socials
 
